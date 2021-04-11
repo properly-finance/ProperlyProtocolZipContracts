@@ -30,7 +30,7 @@ yarn install
 ## Test
 
 ```bash
-npm test
+truffle test
 ```
 
 ## Deploy
